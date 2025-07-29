@@ -1,0 +1,23 @@
+{
+  "name": "vscode-workspace",
+  "version": "1.0.0",
+  "description": "Yeni VS Code workspace projesi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "build": "echo 'Build completed'",
+    "test": "echo 'No tests specified'"
+  },
+  "keywords": [
+    "vscode",
+    "workspace",
+    "project"
+  ],
+  "author": "Developer",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {}
+}
